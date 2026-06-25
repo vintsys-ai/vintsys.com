@@ -117,16 +117,16 @@
 **Section label:** About
 
 **Heading:**
-> Built by someone who reads the papers.
+> Built because the problem was too important to ignore.
 
 **Body:**
-> vinTsys was founded by Pubudu Samarakoon. His career spans the full arc of modern genomics — from PhD research in medical genetics at the University of Oslo and variant calling work at the Norwegian Sequencing Centre, through postdoctoral research on mutations, chromatin structure, and cancer at Oslo University Hospital, to industry work at NEC OncoImmunity developing machine learning software for personalised cancer immunotherapy.
+> AI is reshaping research and education. Tools produce answers with citations that cannot be verified against your own domain-specific materials, operate on generic knowledge rather than the specialised content your work actually depends on, and leave institutions with no way to audit what they're getting. In high-stakes research and education, that is not a gap — it is a liability.
 
-> He currently works as a Senior Engineer in Bioinformatics at the University of Oslo, implementing and validating GPU-accelerated genomic workflows in the Norwegian AI Cloud, and delivering ML and LLM training for the biotechnology and bioinformatics sector. vinTsys grew directly out of that work.
+> vinTsys was founded by Pubudu Samarakoon. His career covers the full arc of modern genomics — PhD research in Bioinformatics at the University of Oslo, variant calling & genomics pipeline development at the Norwegian Sequencing Centre, postdoctoral research on cancer genomics at Oslo University Hospital, and industry work at NEC OncoImmunity building ML software for personalised cancer immunotherapy. He now works as a Senior Engineer in Bioinformatics at the University of Oslo, implementing GPU-accelerated genomic workflows and delivering ML and LLM training. He encountered this problem firsthand, repeatedly. vinTsys is the response.
 
-> vinTsys exists because AI in research and education deserves better than outputs you cannot verify. Most AI tools produce answers without showing where they came from or how they were derived, and they have no access to the specialised, domain-specific materials that research and training actually depend on. vinTsys builds custom AI systems grounded in your domain's own content — so answers are traceable, relevant, and fit for a research context. The goal is not to ride a wave — it is to build systems that institutions can actually trust.
+> The mission is to build AI systems grounded in your domain's own content — traceable, relevant, and fit for a research context. Not to ride a wave. To build something institutions can actually trust.
 
-> vinTsys is registered in the Norwegian business registry (Brønnøysundregistrene) and operates from Oslo, Norway.
+> vinTsys is registered in the Norwegian business registry (Brønnøysundregistrene - Org.nr. 937 757 859) and operates from Oslo, Norway.
 
 ---
 
