@@ -30,12 +30,12 @@
 **Section label:** Our Product
 
 **Heading:**
-> ScholarInt — Pedagogical AI for Scientific Training
+> ScholarInt — AI Learning Infrastructure for Institutions
 
 **Body:**
-> ScholarInt is an AI-powered learning assistant built for bioinformatics and computational life sciences education. Unlike general-purpose AI tools, it is grounded in a curated knowledge base of workshop materials, answers questions with traceable citations, and adapts to the learner's progress through structured content.
+> ScholarInt is an AI-powered learning assistant for institutions running structured training programmes. It answers questions with traceable citations, adapts to learner progress, and produces assessable outcomes — built on your content, not the open web.
 
-> It is designed for institutions that need assessable, reproducible training — not a chatbot, but a structured pedagogical system built on production-grade retrieval-augmented generation.
+> Currently deployed in bioinformatics and computational life sciences education, ScholarInt runs on workshop materials from the BioNT European training network. The platform is designed to extend to any domain where reproducible, citation-backed learning matters.
 
 **Capability signals (3 short lines, visually distinct):**
 
@@ -125,6 +125,8 @@
 > vinTsys was founded by Pubudu Samarakoon. His career covers the full arc of modern genomics — PhD research in Bioinformatics at the University of Oslo, variant calling & genomics pipeline development at the Norwegian Sequencing Centre, postdoctoral research on cancer genomics at Oslo University Hospital, and industry work at NEC OncoImmunity building ML software for personalised cancer immunotherapy. He now works as a Senior Engineer in Bioinformatics at the University of Oslo, implementing GPU-accelerated genomic workflows and delivering ML and LLM training. He encountered this problem firsthand, repeatedly. vinTsys is the response.
 
 > The mission is to build AI systems grounded in your domain's own content — traceable, relevant, and fit for a research context. Not to ride a wave. To build something institutions can actually trust.
+
+> vinTsys is currently focused on AI in education and professional training — building systems that institutions can deploy with confidence. That focus is deliberate: education is where trust in AI is most visibly broken and where the impact of getting it right is immediate. The same foundations that make this possible — domain-grounded content, traceable outputs, verifiable reasoning — extend naturally into active research. The roadmap moves in that direction: giving research teams customisable, verifiable AI that operates on their own materials, in their own domain, on their own terms.
 
 > vinTsys is registered in the Norwegian business registry (Brønnøysundregistrene - Org.nr. 937 757 859) and operates from Oslo, Norway.
 
