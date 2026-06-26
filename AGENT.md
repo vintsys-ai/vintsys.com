@@ -60,7 +60,8 @@ The website is a lightweight, static single-page application built without compi
 ├── docs/
 │   ├── strategy/           # Strategy, copy deck, and company contexts
 │   ├── issue_1/            # Original development roadmap and specifications
-│   └── issue_3/            # Initial implementation walkthrough reports
+│   ├── issue_3/            # Initial implementation walkthrough reports
+│   └── issue_5/            # Hero section visual refactoring details
 └── README.md               # User-facing README with setup and dev guidelines
 ```
 
