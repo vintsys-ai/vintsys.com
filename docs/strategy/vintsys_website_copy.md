@@ -55,7 +55,7 @@
 **Section label:** From the Founder
 
 **Heading:**
-> LLM Architecture & Agentic Systems — in public
+> LLM Architecture & Agentic Systems — The Founder’s Learning Hub
 
 **Body:**
 > Pubudu's public learning journal documents the internals of large language models and agentic systems — from tokenisation and attention mechanisms to context engineering and trust. Written from the perspective of a genomics researcher who built these systems from the ground up, not from the outside in.
@@ -73,7 +73,7 @@
 **Section label:** Recognition
 
 **Heading:**
-> Recognised in the BioNT Final Report to EU Reviewers
+> Official BioNT Recognition
 
 **Body:**
 > vinTsys was formally identified in the BioNT project's final report to European Commission reviewers as a spin-off utilising BioNT learning materials — cited as an early example of third-party reuse of BioNT outputs for purposes beyond the original project scope.
@@ -99,7 +99,7 @@
 
 **Demo card: Norwegian Language Learning Agent**
 
-**Label:** Prototype · Hackathon Build
+**Label:** Prototype
 
 **Heading:** Multi-Turn Conversational Learning Agent
 
