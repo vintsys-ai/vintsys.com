@@ -120,15 +120,20 @@
 > Built because the problem was too important to ignore.
 
 **Body:**
-> AI is reshaping research and education. Tools produce answers with citations that cannot be verified against your own domain-specific materials, operate on generic knowledge rather than the specialised content your work actually depends on, and leave institutions with no way to audit what they're getting. In high-stakes research and education, that is not a gap — it is a liability.
+> The Problem
+> AI is reshaping research and education but current generic AI tools share a fatal flaw: they produce answers with citations that cannot be verified against your own domain-specific materials and operate on generic knowledge rather than the specialised content your work actually depends on. This can leave institutions with no way to audit what they're getting. In high-stakes research and education, that is not a gap — it is a liability.
 
-> vinTsys was founded by Pubudu Samarakoon. His career covers the full arc of modern genomics — PhD research in Bioinformatics at the University of Oslo, variant calling & genomics pipeline development at the Norwegian Sequencing Centre, postdoctoral research on cancer genomics at Oslo University Hospital, and industry work at NEC OncoImmunity building ML software for personalised cancer immunotherapy. He now works as a Senior Engineer in Bioinformatics at the University of Oslo, implementing GPU-accelerated genomic workflows and delivering ML and LLM training. He encountered this problem firsthand, repeatedly. vinTsys is the response.
+> Our Mission
+> The mission of vinTsys is to build AI systems grounded in your domain's own content. We aren't here to ride the AI wave; we are here to build traceable, verifiable systems that institutions can actually trust.
 
-> The mission is to build AI systems grounded in your domain's own content — traceable, relevant, and fit for a research context. Not to ride a wave. To build something institutions can actually trust.
+> Our Focus & Roadmap
+> vinTsys is currently focused on AI in education and professional training — building systems that institutions can deploy with confidence. That focus is deliberate: education is where trust in AI is most visibly broken and where the impact of getting it right is immediate. The same foundations that make this possible — domain-grounded content, traceable outputs, verifiable reasoning — extend naturally into active research. Our roadmap moves in that direction: giving research teams customisable, verifiable AI that operates on their own materials, in their own domain, on their own terms.
 
-> vinTsys is currently focused on AI in education and professional training — building systems that institutions can deploy with confidence. That focus is deliberate: education is where trust in AI is most visibly broken and where the impact of getting it right is immediate. The same foundations that make this possible — domain-grounded content, traceable outputs, verifiable reasoning — extend naturally into active research. The roadmap moves in that direction: giving research teams customisable, verifiable AI that operates on their own materials, in their own domain, on their own terms.
+> The Founder
+> vinTsys was founded by Pubudu Samarakoon. Across a diverse career spanning a PhD in Bioinformatics at the University of Oslo, postdoctoral research in cancer genomics at Oslo University Hospital, and industry ML software development for personalized immunotherapy, Pubudu developed a deep reliance on domain-specific rigor and verifiable data.
 
-> vinTsys is registered in the Norwegian business registry (Brønnøysundregistrene - Org.nr. 937 757 859) and operates from Oslo, Norway.
+> When generic AI tools began transforming the tech landscape, he immediately recognized their fundamental limitation: they lacked the domain-specificity and traceability required for high-stakes environments. Whether building complex pipelines for computational biology or delivering ML and LLM training as a Senior Engineer at the University of Oslo, he saw firsthand how unverifiable outputs can affect advanced workflows. vinTsys is his response: providing tools that can adapt to complex domains—starting with education, and scaling directly into advanced research and computational biology.
+
 
 ---
 
