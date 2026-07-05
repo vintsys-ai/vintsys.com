@@ -636,6 +636,16 @@ img {
   border-top: 1px solid var(--color-border);
 }
 
+.about-subsection {
+  margin-top: var(--spacing-md);
+}
+
+.about-subsection-founder {
+  margin-top: var(--spacing-xl);
+  padding-top: var(--spacing-lg);
+  border-top: 1px solid var(--color-border);
+}
+
 .about-grid {
   display: grid;
   grid-template-columns: 1fr 1fr;
