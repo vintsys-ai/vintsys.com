@@ -522,6 +522,10 @@ img {
   box-shadow: var(--shadow-md);
 }
 
+.article-card .article-title:not(:first-child) {
+  margin-top: var(--spacing-sm);
+}
+
 .article-title {
   font-size: 1.1875rem;
   font-weight: 600;
