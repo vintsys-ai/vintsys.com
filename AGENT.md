@@ -19,7 +19,7 @@ All edits to website copy or structure must adhere to these rules:
 - **Mission Tagline:** Always write **Truth-Grounded AI** as a hyphenated compound modifier.
 - **Product Classification:** **ScholarInt** must **never** be described as a "chatbot". It is a "pedagogical learning assistant" or "AI Learning Infrastructure for Institutions".
 - **Banned Hype Words:** Never use "cutting-edge", "revolutionary", "next-generation", or "game-changing".
-- **Call-to-Action (CTA):** The primary CTA text is **Request Early Access** (not "Try it now", "Get started", or similar).
+- **Call-to-Action (CTA):** The site directs interested parties to email **hello@vintsys.com** directly; do not use "Request Early Access", "Try it now", "Get started", or similar button CTAs.
 - **BioNT References:** Any reference to the BioNT project spin-off recognition must include the standard clarifying disclaimer note stating that vinTsys is not the official BioNT platform.
 - **Health / Clinical claims:** Never claim clinical or diagnostic capabilities.
 
